@@ -1,0 +1,4 @@
+﻿  冒泡排序算法.c
+d:\code\cpp\p1\vs\全部项目\排序算法\冒泡排序算法.c(22): warning C4013: “system”未定义；假设外部返回 int
+  排序算法.vcxproj -> D:\Code\CPP\P1\vs\全部项目\Debug\排序算法.exe
+  排序算法.vcxproj -> D:\Code\CPP\P1\vs\全部项目\Debug\排序算法.pdb (Full PDB)

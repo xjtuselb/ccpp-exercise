@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "排序算法", "排序算法\排序算法.vcxproj", "{ABF256CE-DB59-49E5-8792-7796324F182E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组打印", "数组打印\数组打印.vcxproj", "{4218E5B3-8D2C-4498-8094-5E57271475D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Debug|x64.ActiveCfg = Debug|x64
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Debug|x64.Build.0 = Debug|x64
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Debug|x86.Build.0 = Debug|Win32
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Release|x64.ActiveCfg = Release|x64
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Release|x64.Build.0 = Release|x64
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Release|x86.ActiveCfg = Release|Win32
+		{ABF256CE-DB59-49E5-8792-7796324F182E}.Release|x86.Build.0 = Release|Win32
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Debug|x64.ActiveCfg = Debug|x64
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Debug|x64.Build.0 = Debug|x64
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Debug|x86.Build.0 = Debug|Win32
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Release|x64.ActiveCfg = Release|x64
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Release|x64.Build.0 = Release|x64
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Release|x86.ActiveCfg = Release|Win32
+		{4218E5B3-8D2C-4498-8094-5E57271475D3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
